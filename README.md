@@ -1,5 +1,39 @@
-## Ooi! Prazer, Marcus Trummer 
+Hey there 👋
 
+```js
+const name = 'Marcus Trummer';
+document.write("Hello World");
+
+var status = 
+{ 
+  learning : [JavaScript,React,Java],
+  interests: [Research, Open Source Contribution]
+}
+
+const skills = 
+{
+  languages :[C, C++, Html, Css, Javascript, Java],
+  
+  ide       :[Vs Code, Eclipse, IntelliJ],
+  
+  frameworks:[SpringBoot, Node.js, React],
+  
+  platforms :[Google Cloud Platform, Amazon Web Services, Firebase, Heroku, Vercel],
+  
+  cicd      :[Github Workflows]
+}
+
+
+Developer dev = new Developer(Envoy-VC);
+
+while(dev.isCoding() && dev.isStuck())  
+{
+  dev.openBrowser();
+  dev.openStackOverFlow();
+  dev.pasteCodeInIde();
+  dev.feelProfessional();
+}
+```
  <div>
   <a href="https://github.com/marcustrummer">
   <img height="170em" src="https://github-readme-stats.vercel.app/api?username=marcustrummer&show_icons=true&theme=blue-green&include_all_commits=true&count_private=true"/>
@@ -26,7 +60,11 @@
   <a href = "mailto:marcusstrummmer1@hotmail.com"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/marcus-trummer-880196145/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
    <a href = "mailto:marcusstrummer1@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href = "https://twitter.com/trumminho"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"></a>
  </div>
+ 
+ 
+ 
  
   ![Snake animation](https://github.com/marcustrummer/marcustrummer/blob/output/github-contribution-grid-snake.svg)
    
