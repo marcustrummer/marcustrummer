@@ -18,7 +18,7 @@ const skills =
   
   frameworks:[SpringBoot, Node.js, React],
   
-  platforms :[Google Cloud Platform, Amazon Web Services, Firebase, Heroku, Vercel],
+  platforms :[Google Cloud Platform, Amazon Web Services, Firebase, Heroku, PostMan],
   
   cicd      :[Github Workflows]
 }
