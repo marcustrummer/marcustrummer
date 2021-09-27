@@ -12,13 +12,13 @@ var status =
 
 const skills = 
 {
-  languages :[C, C++, Html, Css, Javascript, Java],
+  languages :[C, C++, Html, Css, Javascript, Java, TypeScript],
   
-  ide       :[Vs Code, Eclipse, IntelliJ],
+  ide       :[Vs Code, Spring Suite Tools, IntelliJ],
   
-  frameworks:[SpringBoot, Node.js, React],
+  frameworks:[SpringBoot, Node.js, Angular],
   
-  platforms :[Google Cloud Platform, Amazon Web Services, Firebase, Heroku, PostMan],
+  platforms :[Heroku, PostMan],
   
   cicd      :[Github Workflows]
 }
