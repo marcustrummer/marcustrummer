@@ -6,7 +6,7 @@ document.write("Hello World");
 
 var status = 
 { 
-  learning : [JavaScript,React,Java],
+  learning : [JavaScript,TypeScript,Java, Angular],
   interests: [Research, Open Source Contribution]
 }
 
