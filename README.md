@@ -24,7 +24,7 @@ const skills =
 }
 
 
-Developer dev = new Developer(Envoy-VC);
+Developer dev = new Developer(Marcus-Trummer);
 
 while(dev.isCoding() && dev.isStuck())  
 {
