@@ -6,7 +6,7 @@ document.write("Hello World");
 
 var status = 
 { 
-  learning : [JavaScript,TypeScript,Java, Angular],
+  learning : [JavaScript, TypeScript, Angular, Java, Spring],
   interests: [Research, Open Source Contribution]
 }
 
@@ -50,14 +50,17 @@ while(dev.isCoding() && dev.isStuck())
    </div>
   
   <div style="display: inline_block"><br>
-  <img align="center" alt="Marcus-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="MArcus-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
+    <img align="center" alt="Marcus-Java" height="31" width="41" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
+    <img align="center" alt="Marcus-Spring" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg">
+    <img align="center" alt="Marcus-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+    <img align="center" alt="MArcus-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
   <img align="center" alt="Marcus-Angular" height="30" width="40" src="https://raw.githubusercontent.com/angular/angular/master/aio/src/assets/images/logos/angular/angular.svg">
   <img align="center" alt="Marcus-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Marcus-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Marcus-Cplusplus" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg">
     <img align="center" alt="Marcus-C" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
-   <img align="right" alt="Rafa-yoda" src="https://media.giphy.com/media/lRjieIGumUci8VWksA/giphy.gif">
+    
+   <img align="right" alt="Coffee" src="https://media.giphy.com/media/lRjieIGumUci8VWksA/giphy.gif">
 </div>
 
   ##
