@@ -1,4 +1,4 @@
-Hey there 👋
+<img width="100%" src="https://i.imgur.com/PyqRezn.png" alt="my banner">
 
 ```js
 const name = 'Marcus Trummer';
@@ -43,12 +43,7 @@ while(dev.isCoding() && dev.isStuck())
   <a href = "https://twitter.com/trumminho"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"></a>
  </div>
  
- <div>
-  <a href="https://github.com/marcustrummer" target="_blank">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=marcustrummer&show_icons=true&theme=blue-green&include_all_commits=true&count_private=true"/>
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcustrummer&layout=compact&langs_count=7&theme=blue-green"/>
-   </div>
-  
+
   <div style="display: inline_block"><br>
     <img align="center" alt="Marcus-Java" height="31" width="41" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
     <img align="center" alt="Marcus-Spring" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg">
