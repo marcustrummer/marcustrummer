@@ -64,5 +64,10 @@ while(dev.isCoding() && dev.isStuck())
  
  
  
-  ![Snake animation](https://github.com/marcustrummer/marcustrummer/blob/output/github-contribution-grid-snake.svg)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/marcustrummer/marcustrummer/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/marcustrummer/marcustrummer/output/github-contribution-grid-snake.svg">
+  <img alt="Snake animation" src="https://raw.githubusercontent.com/marcustrummer/marcustrummer/output/github-contribution-grid-snake.svg">
+</picture>
+
    
